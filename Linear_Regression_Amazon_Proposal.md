@@ -1,16 +1,15 @@
-## Project Proposal
 
 
-*Introduction*
+ # Introduction
 
-Amazon represents one of the largest marketplaces on the Internet. People use its services on a daily basis to order groceries, books, laptops, and even web hosting services. The aim of this project is to scrape laptop data from the amazon website then build a regression model to predict an approximate price for the laptop.
+* Amazon represents one of the largest marketplaces on the Internet. People use its services on a daily basis to order groceries, books, laptops, and even web hosting services. The aim of this project is to scrape laptop data from the amazon website then build a regression model to predict an approximate price for the laptop.
 
 
-*Goals* :
+# Goals
 
--The model predicts the price of the laptop
+- The model predicts the price of the laptop
 
-*Data Description:*
+# Data Description
 
 - We will scrape data from https://www.amazon.com
 - We will target the laptop data; we need to scrap at less than 1000 page
@@ -31,7 +30,7 @@ Amazon represents one of the largest marketplaces on the Internet. People use it
 | 11.Graphics Chipset Brand | Categorical |
 | 12.Item Weight | Numerical |
 
-*Tools:*
+# Tools 
 
 - Python
 - Jupter notebook
